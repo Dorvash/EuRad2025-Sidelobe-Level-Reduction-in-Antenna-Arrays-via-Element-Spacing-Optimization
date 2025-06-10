@@ -1,4 +1,4 @@
-Sidelobe Level Reduction in Antenna Arrays via Element Spacing Optimization 
+# Sidelobe Level Reduction in Antenna Arrays via Element Spacing Optimization 
 
 📂 **Usage Instructions:**
 1. Open the `results` folder.
