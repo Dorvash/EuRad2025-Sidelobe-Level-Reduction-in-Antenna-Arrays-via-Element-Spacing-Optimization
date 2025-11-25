@@ -26,7 +26,7 @@ DOI: [10.23919/EuRAD65285.2025.11234248](https://doi.org/10.23919/EuRAD65285.202
 
 ---
 
-🏛 **Affiliations:**
+🏛 **Affiliations:**  
 ¹: CD-Laboratory for Distributed Microwave- and Terahertz-Systems for Sensors and Data Links,  
 Johannes Kepler University (JKU) Linz, Austria  
 
