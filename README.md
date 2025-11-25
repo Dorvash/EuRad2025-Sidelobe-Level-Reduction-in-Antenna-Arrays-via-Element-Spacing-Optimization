@@ -14,6 +14,7 @@
 
 📖 **Manuscript Title:**
 *Sidelobe Level Reduction in Antenna Arrays via Element Spacing Optimization*  
+Published in **2025 22nd European Radar Conference (EuRAD)**.  
 DOI: [10.23919/EuRAD65285.2025.11234248](https://doi.org/10.23919/EuRAD65285.2025.11234248)
 
 ---
